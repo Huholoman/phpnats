@@ -1,5 +1,5 @@
 {
-    "name": "Huholoman/nats",
+    "name": "huholoman/nats",
     "description": "A nats.io client in PHP",
     "type": "library",
     "minimum-stability": "dev",
